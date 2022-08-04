@@ -1,0 +1,28 @@
+body {
+  font-size: 120px;
+  color: red;
+  background: image("../img/IMG_0020.jpg");
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+span {
+  font-size: 20px;
+}
+@media (max-width: 767px) {
+  span {
+    font-size: 10px;
+  }
+}
+@supports (-webkit-appearance:none){
+
+}
+
+ @media (max-width: 767px){
+
+@supports (-webkit-appearance:none){
+
+}
+
+}
